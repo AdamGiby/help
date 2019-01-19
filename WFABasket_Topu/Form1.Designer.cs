@@ -38,7 +38,7 @@
             // tmrTop
             // 
             this.tmrTop.Enabled = true;
-            this.tmrTop.Interval = 1000;
+            this.tmrTop.Interval = 20;
             this.tmrTop.Tick += new System.EventHandler(this.tmrTop_Tick);
             // 
             // pbBasketTopu
