@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\bin\Debug\WFABasket_Topu.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\bin\Debug\WFABasket_Topu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\bin\Debug\WFABasket_Topu.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\Ödevler\7.Ders Ödevi\WFABasket_Topu\WFABasket_Topu\obj\Debug\WFABasket_Topu.pdb
